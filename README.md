@@ -9,10 +9,10 @@
 + Read the note you want to see
 
 ## Built with
-+ node.js
-You can download Node.js from here
++ node.js \
+You can download Node.js from [here](https://nodejs.org/en/)
 + npm 
-In your project folder
+In your project folder\
 npm init
 + javascript 
 
