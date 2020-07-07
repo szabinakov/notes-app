@@ -35,5 +35,9 @@ If the title is already taken you would get an error message back, if the title 
 
 <br />
 You are able to remove notes with the following command: <br />
-```node app.js remove --title="name-of-title" --body="name-of-body"```
+```
+node app.js remove --title="name-of-title" --body="name-of-body"
+```
 <br />
+
+Blablabla
