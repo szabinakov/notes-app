@@ -9,14 +9,14 @@
 + Read the note you want to see
 
 ## Built with
-+ node.js <br />
++ Node.js <br />
 _You can download Node.js from [here](https://nodejs.org/en/)_
-+ npm 
-_In your project folder <br />_
++ npm <br />
+_In your project folder:<br />_
 ```
 npm init
 ```
-+ javascript 
++ Javascript 
 
 ## Used npm pacakges 
 + [Validator](https://www.npmjs.com/package/Validator)
