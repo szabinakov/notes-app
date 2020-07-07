@@ -10,10 +10,12 @@
 
 ## Built with
 + node.js <br />
-You can download Node.js from [here](https://nodejs.org/en/)
+* You can download Node.js from [here](https://nodejs.org/en/) *
 + npm 
-In your project folder <br />
+* In your project folder <br /> *
+```
 npm init
+```
 + javascript 
 
 ## Used npm pacakges 
