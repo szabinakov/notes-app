@@ -17,6 +17,6 @@ npm init
 + javascript 
 
 ## Used npm pacakges 
-+ Validator[https://www.npmjs.com/package/Validator]
-+ Yargs[https://www.npmjs.com/package/yargs]
-+ Chalk[https://www.npmjs.com/package/chalk]
++ [Validator](https://www.npmjs.com/package/Validator)
++ [Yargs](https://www.npmjs.com/package/yargs)
++ [Chalk](https://www.npmjs.com/package/chalk)
