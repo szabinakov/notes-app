@@ -22,3 +22,15 @@ npm init
 + [Validator](https://www.npmjs.com/package/Validator)
 + [Yargs](https://www.npmjs.com/package/yargs)
 + [Chalk](https://www.npmjs.com/package/chalk)
+
+## Example
+As a first step open up your terminal and navigate in to your project folder. <br />
+You are able to add notes with the following command. <br />
+```
+node app.js add --title="name-of-title" --body="name-of-body"
+````
+If the title is already taken you would get an error message back, if the title is free the app let you add to the list with the body.
+You are able to remove notes with the following command:
+```
+node app.js remove --title="name-of-title" --body="name-of-body"
+```
