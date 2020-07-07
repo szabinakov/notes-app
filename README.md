@@ -10,9 +10,9 @@
 
 ## Built with
 + node.js <br />
-* You can download Node.js from [here](https://nodejs.org/en/) *
+_You can download Node.js from [here](https://nodejs.org/en/)_
 + npm 
-* In your project folder <br /> *
+_In your project folder <br />_
 ```
 npm init
 ```
