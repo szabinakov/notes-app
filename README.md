@@ -34,8 +34,9 @@ node app.js add --title="name-of-title" --body="name-of-body"
 If the title is already taken you would get an error message back, if the title is free the app let you add to the list with the body.
 <br />
 You are able to remove notes with the following command: <br />
-````
+
+```
 node app.js remove --title="name-of-title" --body="name-of-body"
-````
+```
 <br />
 If the title does not exist yet you will get an error message back, otherwise with removing the matching note you get a green succeed message.
