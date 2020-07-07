@@ -1,5 +1,5 @@
 # Notes taking app
-#### Part of the [Node.js Udemy] (https://www.udemy.com/course/nodejs-the-complete-guide/) course I have built an app which can take notes from your terminal
+#### Part of the [Node.js Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) course I have built an app which can take notes from your terminal
 
 #### The app is able to:
 + Take notes with title and body 
